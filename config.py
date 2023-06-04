@@ -14,13 +14,13 @@ sec_key = (
 )
 
 # Telegram Settings
-send_telegram_alerts = False
-tg_token = ""  # Bot token. Get it from @Botfather
-channel = 0  # Channel ID (ex. -1001487568087)
+send_telegram_alerts = true
+tg_token = "5442076505:AAGRAEZjiiYMDiYo7rIx3oNcUVP-wUNCx1o"  # Bot token. Get it from @Botfather
+channel = -1001245204442  # Channel ID (ex. -1001487568087)
 
 # Discord Settings
 send_discord_alerts = False
-discord_webhook = ""  # Discord Webhook URL (https://support.discordapp.com/hc/de/articles/228383668-Webhooks-verwenden)
+discord_webhook = "1106340925426389092/eBz-tx7QBLer9Rj_zZ1XmsJXT6Th2H_SVhUbSx1IAPVaZ_H2vSacSOLlwFtru3EFubYf"  # Discord Webhook URL (https://support.discordapp.com/hc/de/articles/228383668-Webhooks-verwenden)
 
 # Slack Settings
 send_slack_alerts = False
